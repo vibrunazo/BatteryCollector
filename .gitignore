@@ -9,6 +9,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.opendb
 
 # Compiled Object files
 *.slo
